@@ -1,0 +1,17 @@
+{
+  "name": "docker_test_2",
+  "version": "1.0.0",
+  "description": "Test - Node mongo app with Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Alessia Trianti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.21"
+  }
+}
